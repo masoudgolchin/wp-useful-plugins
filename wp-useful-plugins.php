@@ -27,7 +27,7 @@ function wp_plugins_ajax(){
     WP_Filesystem();
 
     $plugins_dir= plugin_dir_path(__FILE__);
-    $plugins_dir= preg_replace('/mass-plugin-installer/', '$1', $plugins_dir);
+    $plugins_dir= preg_replace('/wp-useful-plugins/', '$1', $plugins_dir);
 
     if( isset($_POST) && !empty($_POST)):
 
