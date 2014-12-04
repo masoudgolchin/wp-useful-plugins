@@ -10,9 +10,9 @@
  */
 
 function wp_plugins_menu() {
-	add_menu_page('Mass plugin installer', 'Plugin installer', 'administrator', __FILE__, 'wp_plugins_settings_page');
-    wp_register_style( 'mass-plugin-installer', plugins_url('/inc/css/main.css',__FILE__));
-    wp_enqueue_style( 'mass-plugin-installer');
+	add_menu_page('Useful Plugins', 'Useful Plugins', 'administrator', __FILE__, 'wp_plugins_settings_page');
+    wp_register_style( 'wp-useful-plugins', plugins_url('/inc/css/main.css',__FILE__));
+    wp_enqueue_style( 'wp-useful-plugins');
     wp_enqueue_script('jquery');
 }
 add_action('admin_menu', 'wp_plugins_menu');
