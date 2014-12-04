@@ -1,0 +1,47 @@
+{
+    "plugins":
+    [
+        {
+            "name"      :   "Akismet",
+            "dllink"    :   "https://downloads.wordpress.org/plugin/akismet.zip"
+        },
+        {
+            "name"      :   "Contact_Form_7",
+            "dllink"    :   "https://downloads.wordpress.org/plugin/contact-form-7.zip"
+        },
+        {
+            "name"      :   "WP_Super_Cache",
+            "dllink"    :   "https://downloads.wordpress.org/plugin/wp-super-cache.zip"
+        },
+        {
+            "name"      :   "W3_Total_Cache",
+            "dllink"    :   "https://downloads.wordpress.org/plugin/w3-total-cache.zip"
+        },
+        {
+            "name"      :   "WordPress_SEO_by_Yoast",
+            "dllink"    :   "https://downloads.wordpress.org/plugin/wordpress-seo.zip"
+        },
+        {
+            "name"      :   "All_in_One_SEO_Pack",
+            "dllink"    :   "https://downloads.wordpress.org/plugin/all-in-one-seo-pack.zip"
+        },
+        {
+            "name"      :   "Jetpack_by_WordPress.com",
+            "dllink"    :   "https://downloads.wordpress.org/plugin/jetpack.zip"
+        },
+        {
+            "name"      :   "Google_XML_Sitemaps",
+            "dllink"    :   "https://downloads.wordpress.org/plugin/google-sitemap-generator.zip"
+        },
+        {
+            "name"      :   "WP_Statistics",
+            "dllink"    :   "https://downloads.wordpress.org/plugin/wp-statistics.zip"
+        },
+        {
+            "name"      :   "WordPress_SMS",
+            "dllink"    :   "https://downloads.wordpress.org/plugin/wp-sms.zip"
+        }
+    ]
+}
+
+
